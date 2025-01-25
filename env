@@ -1,0 +1,20 @@
+# Telegram API токен (получить у @BotFather)
+TELEGRAM_TOKEN=your_telegram_bot_token_here
+
+# ID администратора (можно узнать через бота @userinfobot)
+ADMIN_ID=123456789
+
+# Путь к файлу базы данных
+DB_PATH=reports.db
+
+# Директория для хранения фотографий (автосоздается)
+PHOTO_DIR=photos
+
+# Режим отладки (True/False)
+DEBUG_MODE=False
+
+# Лимит отчетов на пользователя (опционально)
+REPORTS_LIMIT=10
+
+# Часовой пояс (например: Europe/Moscow)
+TIMEZONE=UTC
